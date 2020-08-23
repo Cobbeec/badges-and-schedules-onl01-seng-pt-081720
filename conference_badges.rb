@@ -6,5 +6,6 @@ end
 
 def badge_batch_creator (array)
   speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  speakers.each {|speaker| puts "Hello, "
+  speakers.each {|speaker| puts "Hello, my name is #{speaker}"}
+end 
   
