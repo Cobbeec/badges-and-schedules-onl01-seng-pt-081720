@@ -1,4 +1,4 @@
 def badge_maker (names)
   names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  array.each {|name| puts "Hello, my name is #{name}."}
+  array.each {|names| puts "Hello, my name is #{names}."}
 end 
