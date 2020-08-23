@@ -5,4 +5,5 @@ def badge_maker (name)
 end 
 
 def badge_batch_creator (names)
+  array = []
   return
